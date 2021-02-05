@@ -1,0 +1,12 @@
+{
+  "name": "CRUD",
+  "displayName": "CRUD",
+  "expo": {
+    "name": "CRUD",
+    "slug": "CRUD",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
